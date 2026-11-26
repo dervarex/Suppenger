@@ -1,6 +1,6 @@
 package com.dervarex.suppenger.components;
 
-import com.dervarex.suppenger.HomeScreen;
+import com.dervarex.suppenger.screens.HomeScreen;
 import com.dervarex.unweird.Button;
 import com.dervarex.unweird.Component;
 import com.dervarex.unweird.Side;

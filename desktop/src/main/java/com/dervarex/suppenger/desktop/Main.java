@@ -1,6 +1,6 @@
 package com.dervarex.suppenger.desktop;
 
-import com.dervarex.suppenger.HomeScreen;
+import com.dervarex.suppenger.screens.HomeScreen;
 import com.dervarex.unweird.Unweird;
 import com.dervarex.unweird.style.Theme;
 
