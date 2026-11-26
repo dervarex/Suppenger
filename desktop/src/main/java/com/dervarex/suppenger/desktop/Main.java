@@ -1,6 +1,6 @@
-package com.example.suppenger.desktop;
+package com.dervarex.suppenger.desktop;
 
-import com.example.suppenger.HomeScreen;
+import com.dervarex.suppenger.HomeScreen;
 import com.dervarex.unweird.Unweird;
 
 public class Main {

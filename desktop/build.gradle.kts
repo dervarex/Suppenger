@@ -10,7 +10,7 @@ java {
 }
 
 application {
-    mainClass = "com.example.suppenger.desktop.Main"
+    mainClass = "com.dervarex.suppenger.desktop.Main"
 }
 
 dependencies {

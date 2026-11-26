@@ -1,4 +1,4 @@
-package com.example.suppenger;
+package com.dervarex.suppenger;
 
 import com.dervarex.unweird.Button;
 import com.dervarex.unweird.Screen;

@@ -1,6 +1,6 @@
-package com.example.suppenger.android;
+package com.dervarex.suppenger.android;
 
-import com.example.suppenger.HomeScreen;
+import com.dervarex.suppenger.HomeScreen;
 import com.dervarex.unweird.UnweirdActivity;
 
 /** The Android app: the type argument is the first screen. */

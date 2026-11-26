@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.suppenger.android"
+    namespace = "com.dervarex.suppenger.android"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.suppenger"
+        applicationId = "com.dervarex.suppenger"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
