@@ -15,6 +15,4 @@ application {
 
 dependencies {
     implementation(project(":shared"))
-    implementation("org.projectlombok:lombok:1.18.48")
-    annotationProcessor("org.projectlombok:lombok:1.18.48")
 }

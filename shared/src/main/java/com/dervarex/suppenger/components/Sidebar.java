@@ -1,4 +1,4 @@
-package com.dervarex.suppenger.desktop.components;
+package com.dervarex.suppenger.components;
 
 import com.dervarex.suppenger.HomeScreen;
 import com.dervarex.unweird.Button;
