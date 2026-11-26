@@ -2,10 +2,14 @@ package com.dervarex.suppenger.desktop;
 
 import com.dervarex.suppenger.HomeScreen;
 import com.dervarex.unweird.Unweird;
+import com.dervarex.unweird.style.Theme;
 
 public class Main {
 
     public static void main(String[] args) {
-        Unweird.app("Suppenger").size(900, 600).start(HomeScreen.class);
+        Unweird.app("Suppenger")
+                .size(900, 600)
+                .theme(Theme.dark())
+                .start(HomeScreen.class);
     }
 }

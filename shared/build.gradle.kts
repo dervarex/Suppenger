@@ -9,3 +9,8 @@ java {
         languageVersion = JavaLanguageVersion.of(21)
     }
 }
+
+dependencies {
+    implementation("org.projectlombok:lombok:1.18.48")
+    annotationProcessor("org.projectlombok:lombok:1.18.48")
+}
